@@ -5,6 +5,7 @@ html {
   line-height: 1.5;
 }
 
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -25,6 +26,11 @@ html {
   border: 3px solid #e2e2e2;
   border-radius: 10px;
   text-align: left;
+}
+
+.cards img {
+  display: block;
+  margin: 0 auto 1rem;
 }
 
 .cards strong {
