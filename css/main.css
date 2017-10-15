@@ -27,3 +27,14 @@ html {
   border-radius: 10px;
   text-align: left;
 }
+
+.cards strong {
+  display: block;
+  margin-bottom: 1rem;
+
+  font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
